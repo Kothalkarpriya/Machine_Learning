@@ -1,4 +1,4 @@
-tring voice;
+String voice;
 
 #define lockPin 12
 #define unlockPin 11
@@ -37,3 +37,4 @@ void loop() {
      }
  voice="";                                                       //Reset the variable after initiating
   }}
+
